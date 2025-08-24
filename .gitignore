@@ -55,3 +55,10 @@ backend/ACE-Step/zh_lora_dataset/
 
 # Asset files (optional, comment out if you want to keep these in repo)
 backend/ACE-Step/assets/
+
+# Ignore all image files
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.svg
