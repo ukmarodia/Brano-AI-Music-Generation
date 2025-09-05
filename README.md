@@ -55,9 +55,9 @@ Run the local queue development server:
 npx inngest-cli@latest dev
 ```
 
-## AWS Setup
+## Google Cloud Setup
 
-Set up your AWS S3 bucket and IAM policies as needed for your deployment.
+Create a Google Cloud Storage bucket and configure IAM roles to allow your application to upload, retrieve, and manage music assets securely.
 
 ---
 
